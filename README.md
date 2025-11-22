@@ -1,4 +1,6 @@
 # Employee_attrition
+📄 [View Full Project Report (PDF)](Employee_Analysis_Report_Nithish.pdf)
+
 📌 Project Overview
 
 This project focuses on analyzing and predicting employee attrition using Data Science and Machine Learning techniques. The aim is to help HR teams identify key factors that lead to employee turnover and take proactive steps to improve retention. The dataset used is the HR Employee Attrition dataset from Kaggle, containing 1470 records and 35 attributes including Age, Job Role, Monthly Income, Distance from Home, Job Satisfaction, and Attrition as the target variable 
